@@ -49,3 +49,9 @@ print(ifscCode[-3:])
 # begining of string
 
 print(myString[:2])
+
+
+# concatenate string
+
+print("Hello" + " " + "ravi")
+print("Learing days: " + str(2))

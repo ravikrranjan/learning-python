@@ -1,0 +1,10 @@
+
+1. ec2 instance
+2. Policy
+3. IAM Role
+4. Attached I am role to ec2 instance
+5. ssh to ec2 machine
+6. write script to send data to cloudwatch
+7. set cron job to execute script every 1 min
+
+sudo yum install python37

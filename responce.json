@@ -1,0 +1,13 @@
+{
+    'ResponseMetadata': {
+        'RequestId': '83c0364b-1c4b-4b50-b671-657865dfe09f',
+        'HTTPStatusCode': 200,
+        'HTTPHeaders': {
+            'x-amzn-requestid': '83c0364b-1c4b-4b50-b671-657865dfe09f',
+            'content-type': 'text/xml',
+            'content-length': '212',
+            'date': 'Mon, 30 Mar 2020 15:55:21 GMT'
+        },
+        'RetryAttempts': 0
+    }
+}

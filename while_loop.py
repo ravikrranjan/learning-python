@@ -1,3 +1,5 @@
+
+
 number = 8
 
 guess = int(input("I'm thinking a number between zero to ten, Can I gusess ? "))

@@ -2,7 +2,9 @@
 
 # as used to create alias while importing module
 
+from math import cos
 import math as mathAlias
+
 
 print(mathAlias.cos(mathAlias.pi))
 
@@ -17,7 +19,7 @@ assert a < 5
 
 # general
 #assert condition, message
-assert a > 5, "Value is small"
+# assert a > 5, "Value is small"
 
 
 # class
@@ -25,12 +27,12 @@ assert a > 5, "Value is small"
 
 # class is used to define a new user-defined class in Python.
 
-class DemoClass:
-    def getDemo():
-        return True
+# class DemoClass:
+#     def getDemo():
+#         return True
 
-    def updateDemo():
-        ...
+#     def updateDemo():
+#         ...
 
 
 # def
@@ -41,3 +43,9 @@ class DemoClass:
 # del
 
 # del is used to delete the reference to an object. Everything is object in Python. We can delete a variable reference using del
+
+
+# from, import
+
+# import keyword is used to import modules into the current namespace. from…import is used to import specific attributes or functions into the current namespace.
+print(cos(90))
